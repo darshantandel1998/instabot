@@ -1,0 +1,17 @@
+{
+  "name": "instabot",
+  "version": "1.0.0",
+  "description": "Instagram automation project",
+  "main": "app.js",
+  "dependencies": {
+    "chromedriver": "^90.0.0",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darshan Tandel",
+  "license": "ISC"
+}
